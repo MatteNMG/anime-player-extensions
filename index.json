@@ -1,4 +1,13 @@
 {
   "version": 1,
-  "extensions": []
+  "extensions": [
+    {
+      "id": "mysource",
+      "name": "MySource (template)",
+      "version": "1.0.0",
+      "lang": "it",
+      "description": "Template di esempio — mostra il contratto search/anime/stream",
+      "url": "https://raw.githubusercontent.com/MatteNMG/anime-player-extensions/main/extensions/template.js"
+    }
+  ]
 }
