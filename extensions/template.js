@@ -1,8 +1,9 @@
 // ==AnimePlayer Extension==
-// @id    mysource            // required: unique id [a-zA-Z0-9_-]
-// @name  MySource            // display name
+// required: unique id [a-zA-Z0-9_-], display name, version, content language
+// @id mysource
+// @name MySource
 // @version 1.0.0
-// @lang  it                  // content language
+// @lang it
 
 // ---- globals provided by the app ----------------------------------------
 // fetch(url, {method, headers, body}?) -> { status, body, headers }
